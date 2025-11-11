@@ -9,9 +9,7 @@
 
 @font-face {
     font-family: 'Rocket Rinder';
-    src: url('../fonts/Rocket Rinder.woff2') format('woff2'),
-         url('../fonts/Rocket Rinder.woff') format('woff'),
-         url('../fonts/Rocket Rinder.ttf') format('truetype');
+    src: url('../fonts/Rocket Rinder.otf') format('opentype');
     font-display: swap;
 }
 
