@@ -1,3 +1,29 @@
+/* === Custom Fonts === */
+@font-face {
+    font-family: 'VCR OSD MONO';
+    src: url('../fonts/VCR_OSD_MONO_1.001.woff2') format('woff2'),
+         url('../fonts/VCR_OSD_MONO_1.001.woff') format('woff'),
+         url('../fonts/VCR_OSD_MONO_1.001.ttf') format('truetype');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rocket Rinder';
+    src: url('../fonts/Rocket Rinder.woff2') format('woff2'),
+         url('../fonts/Rocket Rinder.woff') format('woff'),
+         url('../fonts/Rocket Rinder.ttf') format('truetype');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Streamster';
+    src: url('../fonts/Streamster.woff2') format('woff2'),
+         url('../fonts/Streamster.woff') format('woff'),
+         url('../fonts/Streamster.ttf') format('truetype');
+    font-display: swap;
+}
+
+
 body{
     background-color: #261447; /*Set background color */
     font-family: 'VCR OSD MONO', sans-serif; /* Default font */
